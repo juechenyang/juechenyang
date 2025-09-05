@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hi, I’m **Juechen (Jason) Yang**, a PhD in **Biomedical Informatics** at the University of Cincinnati and Cincinnati Children's Hospital Medical Center with a strong background in **software engineering** and **computational biology**.  
+Hi, I’m **Juechen (Jason) Yang, PhD**, a **Bioinformatics Research Fellow** at the University of Cincinnati and Cincinnati Children's Hospital Medical Center with a strong background in **software engineering** and **computational biology**.  
 
 My research focuses on developing computational methods and machine learning models for **cancer genomics, single-cell/spatial transcriptomics, and drug discovery**.
 
