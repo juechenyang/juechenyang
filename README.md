@@ -18,15 +18,6 @@ My research focuses on developing computational methods and machine learning mod
 
 ---
 
-## 🛠️ Skills
-- **Programming:** Python, R, C++, Java, SAS, Bash, MySQL  
-- **Data Science & Bioinformatics:** NumPy, Pandas, PyTorch, TensorFlow, Seurat, Scanpy, DESeq2, Mutect2, STAR  
-- **Web Development:** R Shiny, Django, HTML, CSS, JavaScript, MySQL  
-- **Cloud & Tools:** DNAnexus, Docker, AWS, Git  
-- **Other:** Strong communication, teamwork, adaptability  
-
----
-
 ## 📚 Publications (Selected)
 - **Copper drives remodeling of metabolic state and progression of ccRCC**. *Cancer Discovery* (2024) [doi](https://doi.org/10.1158/2159-8290.CD-24-0187)  
 - **Accelerating drug discovery and repurposing by combining transcriptional signature connectivity with docking**. *Science Advances* (2024) [doi](https://doi.org/10.1126/sciadv.adj3010)  
